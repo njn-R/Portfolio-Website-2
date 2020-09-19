@@ -145,7 +145,8 @@ a:hover { color: lightblue; }
 .banner-content h1 {
   margin-top: 0px;
   font-size: 128px;
-  color: white;
+  color:whitesmoke;
+  opacity: 80%;
   font-weight: 900;
   text-transform: uppercase;
   margin-bottom: 0px;
